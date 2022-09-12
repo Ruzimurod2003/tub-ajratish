@@ -1,0 +1,39 @@
+{
+    "RuzProect": {
+        "Muallif": "Abdunazarov Ro'zimurod Ro'zinazar o'g'li",
+        "Maqsad": "Tub ko'paytuvchilarga ajratish",
+        "Namsepace_nomi": "RuzProect",
+        "Class_nomi": "KupaytuvchilargaAjratish",
+        "Method": {
+            "TubSonQaytar": {
+                "KiritadiganQiymat": {
+                    "Qiymat": "int"
+                },
+                "ChiquvchiQiymat": {
+                    "Qiymat1": "True",
+                    "Qiymat2": "False"
+                },
+                "Maqsad": "Bu methodga int turdagi qiymat kiritsangiz uni tub yoki tub emasligini qaytaradi"
+            },
+            "TubAjrat": {
+                "KiritadiganQiymat": {
+                    "Qiymat1": "int",
+                    "Qiymat2": "int"
+                },
+                "ChiquvchiQiymat": {
+                    "Qiymat": "int"
+                },
+                "Maqsad": "Bu methodga son1 va son2 kiritsangiz son1 son2 ni nechanchi darajasiga bo'linishini qaytaradi"
+            },
+            "TubKupaytuvhilargaAjrat": {
+                "KiritadiganQiymat": {
+                    "Qiymat": "int"
+                },
+                "ChiquvchiQiymat": {
+                    "Qiymat": "string"
+                },
+                "Maqsad": "Bu methodga son kiritsangiz uni tub ko'paytuvchilarga ajratib beradi"
+            }
+        }
+    }
+}
